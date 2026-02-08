@@ -7,18 +7,12 @@ Detección de Riesgo Latente mediante Kurtosis y Volumen Anómalo
 Este proyecto identifica uno de los patrones más raros y peligrosos del mercado: un aumento extremo del riesgo de cola (kurtosis) en un contexto de volumen anormalmente bajo y precio prácticamente inmóvil.
 
 Este fenómeno, denominado “Silencio Explosivo”, suele aparecer antes de eventos binarios de gran impacto, como:
-
-Adquisiciones hostiles
-
-Fallos judiciales relevantes
-
-Decisiones regulatorias inesperadas
-
-En apariencia, el mercado está “muerto”. En realidad, está cargando una bomba estadística.
-
-Hipótesis de Mercado
-
-Cuando el volumen desaparece pero la kurtosis se dispara, el mercado está descontando un evento extremo que aún no es visible en el precio.
+- Adquisiciones hostiles
+- Fallos judiciales relevantes
+- Decisiones regulatorias inesperadas
+- En apariencia, el mercado está “muerto”. En realidad, está cargando una bomba estadística.
+- Hipótesis de Mercado
+- Cuando el volumen desaparece pero la kurtosis se dispara, el mercado está descontando un evento extremo que aún no es visible en el precio.
 
 Este patrón rompe con la intuición clásica:
 
@@ -69,3 +63,6 @@ Este tipo de señal no aparece en indicadores tradicionales y suele ser ignorada
 
 - Este patrón no indica dirección, solo probabilidad de ruptura violenta.
 - Debe usarse como alerta de riesgo, no como señal directa de compra o venta.
+
+## 👤Autora
+Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
