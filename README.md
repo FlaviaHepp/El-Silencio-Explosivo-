@@ -66,3 +66,53 @@ Este tipo de señal no aparece en indicadores tradicionales y suele ser ignorada
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+🤫📊 **El mercado en silencio… antes de explotar**
+
+Hay momentos en los que *no pasa nada*.
+El precio no se mueve. El volumen es bajo. Todo parece tranquilo.
+
+Pero a veces… eso es exactamente lo peligroso.
+
+👉 Analicé un patrón que llamo **“silencio explosivo”**:
+
+* Volumen **muy por debajo del promedio**
+* Precio prácticamente sin movimiento
+* Pero con **kurtosis extremadamente alta** (riesgo de eventos extremos)
+
+💡 **Insight clave:**
+Cuando el riesgo de cola se dispara en un entorno de aparente calma, puede ser señal de que el mercado está **anticipando un evento significativo… sin hacerlo evidente**.
+
+---
+
+📈 **¿Qué medí?**
+
+* Volumen < 50% del promedio histórico
+* Kurtosis > 8 (riesgo extremo)
+* Movimiento diario < 1%
+
+---
+
+🧠 **¿Cómo interpretarlo?**
+
+* Baja actividad visible → falsa sensación de estabilidad
+* Alta kurtosis → probabilidad latente de movimientos bruscos
+* Desacople → posible información no distribuida uniformemente
+
+---
+
+⚡ **¿Por qué importa?**
+
+Porque estos patrones suelen aparecer:
+
+* Antes de eventos inesperados (M&A, decisiones judiciales, etc.)
+* En fases de acumulación silenciosa
+* Justo antes de movimientos de alta magnitud (±20%)
+
+---
+
+📌 Pregunta para la comunidad:
+¿Alguna vez detectaron señales “silenciosas” antes de grandes movimientos del mercado?
+
+#QuantFinance #Trading #DataScience #StockMarket #RiskManagement #Kurtosis #Alpha #Analytics
